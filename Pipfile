@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 fastapi = "*"
 torch = "*"
+numpy = "*"
 
 [dev-packages]
 
