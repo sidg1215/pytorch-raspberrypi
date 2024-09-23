@@ -7,6 +7,12 @@ name = "pypi"
 fastapi = "*"
 torch = "*"
 numpy = "*"
+jupyterlab = "*"
+jupyter = "*"
+notebook = "*"
+torchvision = "*"
+matplotlib = "*"
+pandas = "*"
 
 [dev-packages]
 
